@@ -1,0 +1,25 @@
+{
+  "name": "nodechalk",
+  "version": "1.0.0",
+  "description": "npm chalk package",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedibrahim8/nodeChalk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syedibrahim8/nodeChalk/issues"
+  },
+  "homepage": "https://github.com/syedibrahim8/nodeChalk#readme",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "readline-sync": "^1.4.10"
+  }
+}
